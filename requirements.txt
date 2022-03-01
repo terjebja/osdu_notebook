@@ -1,7 +1,6 @@
 pandas
 numpy
 asyncio
-io
 pyarrow
 fastparquet
 nest_asyncio
