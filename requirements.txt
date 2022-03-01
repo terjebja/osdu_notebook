@@ -1,9 +1,6 @@
 pandas
 numpy
 asyncio
-requests
-time
-base64
 mpl_toolkits
 matplotlib.pyplot
 io
