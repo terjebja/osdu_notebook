@@ -2,7 +2,6 @@ pandas
 numpy
 asyncio
 requests
-json
 time
 base64
 mpl_toolkits
