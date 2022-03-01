@@ -1,7 +1,6 @@
 pandas
 numpy
 asyncio
-matplotlib.pyplot
 io
 pyarrow
 fastparquet
