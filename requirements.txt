@@ -1,7 +1,6 @@
 pandas
 numpy
 asyncio
-mpl_toolkits
 matplotlib.pyplot
 io
 pyarrow
